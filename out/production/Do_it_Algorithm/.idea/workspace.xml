@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93fd0527-deae-498d-b81e-fbc24891c772" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/Do_it_Algorithm/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Do_it_Algorithm/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Do_it_Algorithm/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Do_it_Algorithm/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Do_it_Algorithm/Do_it_Algorithm.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Do_it_Algorithm/Max3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Do_it_Algorithm/Max3Method.class" beforeDir="false" />
-    </list>
+    <list default="true" id="93fd0527-deae-498d-b81e-fbc24891c772" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,17 +46,41 @@
       <recent name="C:\" />
       <recent name="C:\Do_it_Algorithm\.idea" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Max3">
-    <configuration name="Max3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Max3" />
+  <component name="RunManager" selected="Application.TwoDigits">
+    <configuration name="Alternative1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Alternative1" />
       <module name="Do_it_Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Max3Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Max3Method" />
+    <configuration name="Alternative2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Alternative2" />
+      <module name="Do_it_Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintStars1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrintStars1" />
+      <module name="Do_it_Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumVerbose2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumVerbose2" />
+      <module name="Do_it_Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoDigits" />
       <module name="Do_it_Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,8 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Max3" />
-        <item itemvalue="Application.Max3Method" />
+        <item itemvalue="Application.TwoDigits" />
+        <item itemvalue="Application.PrintStars1" />
+        <item itemvalue="Application.Alternative2" />
+        <item itemvalue="Application.Alternative1" />
+        <item itemvalue="Application.SumVerbose2" />
       </list>
     </recent_temporary>
   </component>
