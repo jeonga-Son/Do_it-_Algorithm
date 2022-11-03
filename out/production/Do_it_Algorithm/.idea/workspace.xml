@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="93fd0527-deae-498d-b81e-fbc24891c772" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Do_it_Algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Do_it_Algorithm.iml" afterDir="false" />
-    </list>
+    <list default="true" id="93fd0527-deae-498d-b81e-fbc24891c772" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,9 +56,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IntArray">
-    <configuration name="Alternative2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Alternative2" />
+  <component name="RunManager" selected="Application.IntArrayInit">
+    <configuration name="ArraySumForIn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraySumForIn" />
       <module name="Do_it_Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,22 +71,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Multi99Table" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Multi99Table" />
+    <configuration name="IntArrayInit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IntArrayInit" />
       <module name="Do_it_Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintStars1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrintStars1" />
+    <configuration name="JudgeABC1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JudgeABC1" />
       <module name="Do_it_Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoDigits" />
+    <configuration name="Pyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pyramid" />
       <module name="Do_it_Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,11 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IntArrayInit" />
         <item itemvalue="Application.IntArray" />
-        <item itemvalue="Application.Alternative2" />
-        <item itemvalue="Application.Multi99Table" />
-        <item itemvalue="Application.TwoDigits" />
-        <item itemvalue="Application.PrintStars1" />
+        <item itemvalue="Application.Pyramid" />
+        <item itemvalue="Application.ArraySumForIn" />
+        <item itemvalue="Application.JudgeABC1" />
       </list>
     </recent_temporary>
   </component>
