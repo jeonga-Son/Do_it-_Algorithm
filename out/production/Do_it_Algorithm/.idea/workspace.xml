@@ -56,37 +56,37 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MaxOfArrayRandQ1">
-    <configuration name="IntArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IntArray" />
+  <component name="RunManager" selected="Application.PhysicalExamination">
+    <configuration name="ArraySumForIn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraySumForIn" />
       <module name="Do_it_Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntArrayInit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IntArrayInit" />
+    <configuration name="CloneArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CloneArray" />
       <module name="Do_it_Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MaxOfArray" />
+    <configuration name="PhysicalExamination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PhysicalExamination" />
       <module name="Do_it_Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxOfArrayRand" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MaxOfArrayRand" />
+    <configuration name="PrimeNumber2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimeNumber2" />
       <module name="Do_it_Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxOfArrayRandQ1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MaxOfArrayRandQ1" />
+    <configuration name="PrimeNumber3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimeNumber3" />
       <module name="Do_it_Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -94,11 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MaxOfArrayRandQ1" />
-        <item itemvalue="Application.MaxOfArrayRand" />
-        <item itemvalue="Application.MaxOfArray" />
-        <item itemvalue="Application.IntArrayInit" />
-        <item itemvalue="Application.IntArray" />
+        <item itemvalue="Application.PhysicalExamination" />
+        <item itemvalue="Application.ArraySumForIn" />
+        <item itemvalue="Application.CloneArray" />
+        <item itemvalue="Application.PrimeNumber3" />
+        <item itemvalue="Application.PrimeNumber2" />
       </list>
     </recent_temporary>
   </component>
