@@ -56,7 +56,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MaxOfArrayRand">
+  <component name="RunManager" selected="Application.MaxOfArrayRandQ1">
     <configuration name="IntArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="IntArray" />
       <module name="Do_it_Algorithm" />
@@ -85,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pyramid" />
+    <configuration name="MaxOfArrayRandQ1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaxOfArrayRandQ1" />
       <module name="Do_it_Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -94,11 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxOfArrayRandQ1" />
         <item itemvalue="Application.MaxOfArrayRand" />
         <item itemvalue="Application.MaxOfArray" />
         <item itemvalue="Application.IntArrayInit" />
         <item itemvalue="Application.IntArray" />
-        <item itemvalue="Application.Pyramid" />
       </list>
     </recent_temporary>
   </component>
