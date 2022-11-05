@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93fd0527-deae-498d-b81e-fbc24891c772" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Do_it_Algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Do_it_Algorithm.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap02/ArraySumForIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/chap02/ArraySumForIn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap02/CardConv.java" beforeDir="false" afterPath="$PROJECT_DIR$/chap02/CardConv.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap02/CloneArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/chap02/CloneArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap02/MaxOfArrayRand.java" beforeDir="false" afterPath="$PROJECT_DIR$/chap02/MaxOfArrayRand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap02/PrimeNumber1.java" beforeDir="false" afterPath="$PROJECT_DIR$/chap02/PrimeNumber1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap02/PrimeNumber2.java" beforeDir="false" afterPath="$PROJECT_DIR$/chap02/PrimeNumber2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap02/PrimeNumber3.java" beforeDir="false" afterPath="$PROJECT_DIR$/chap02/PrimeNumber3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap02/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/chap02/ReverseArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap03/SeqSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/chap03/SeqSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Do_it_Algorithm/PhysicalExamination$PhyscData.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Do_it_Algorithm/PhysicalExamination$PhyscData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Do_it_Algorithm/PhysicalExamination.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Do_it_Algorithm/PhysicalExamination.class" afterDir="false" />
-    </list>
+    <list default="true" id="93fd0527-deae-498d-b81e-fbc24891c772" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,16 +56,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PhysicalExamination">
-    <configuration name="ArraySumForIn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraySumForIn" />
-      <module name="Do_it_Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CloneArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CloneArray" />
+  <component name="RunManager" selected="Application.BinSearch">
+    <configuration name="BinSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinSearch" />
       <module name="Do_it_Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,15 +71,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeNumber2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrimeNumber2" />
+    <configuration name="SeqSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SeqSearch" />
       <module name="Do_it_Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeNumber3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrimeNumber3" />
+    <configuration name="SeqSearchFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SeqSearchFor" />
+      <module name="Do_it_Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeqSearchSen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SeqSearchSen" />
       <module name="Do_it_Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -107,11 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinSearch" />
+        <item itemvalue="Application.SeqSearchSen" />
+        <item itemvalue="Application.SeqSearchFor" />
+        <item itemvalue="Application.SeqSearch" />
         <item itemvalue="Application.PhysicalExamination" />
-        <item itemvalue="Application.ArraySumForIn" />
-        <item itemvalue="Application.CloneArray" />
-        <item itemvalue="Application.PrimeNumber3" />
-        <item itemvalue="Application.PrimeNumber2" />
       </list>
     </recent_temporary>
   </component>
