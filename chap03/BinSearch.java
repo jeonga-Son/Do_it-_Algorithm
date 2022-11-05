@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BinSearch {
+class BinSearch {
     static int binSearch(int[] a, int n, int key) {
         int pl = 0; // 검색 범위의 첫 인덱스
         int pr = n - 1; // 검색 범위의 끝 인덱스
