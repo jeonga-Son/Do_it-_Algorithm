@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CardConv {
+class CardConv {
     static int cardConv(int x, int r, char[] d) {
         int digits = 0;
         String dchar = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ";

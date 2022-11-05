@@ -1,4 +1,4 @@
-public class PrimeNumber3 {
+class PrimeNumber3 {
     public static void main(String[] args) {
         int counter = 0; // 곱셈과 나눗셈의 횟수
         int ptr = 0; // 찾은 소수의 개수

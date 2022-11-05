@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class MaxOfArrayRand {
+class MaxOfArrayRand {
 
     static int maxOf(int[] a) {
         int max = a[0];

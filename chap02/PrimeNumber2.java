@@ -1,4 +1,4 @@
-public class PrimeNumber2 {
+class PrimeNumber2 {
     public static void main(String[] args) {
 
         int counter = 0; // 나눗셈의 횟수

@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class ReverseArray {
+class ReverseArray {
 
     static void swap(int[] a, int idx1, int idx2) {
         int t = a[idx1];
