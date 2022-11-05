@@ -56,37 +56,37 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BinSearch">
-    <configuration name="BinSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinSearch" />
+  <component name="RunManager" selected="Application.IntStackTester">
+    <configuration name="GenericClassTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GenericClassTester" />
       <module name="Do_it_Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PhysicalExamination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PhysicalExamination" />
+    <configuration name="IdTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IdTester" />
       <module name="Do_it_Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeqSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SeqSearch" />
+    <configuration name="IntStackTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IntStackTester" />
       <module name="Do_it_Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeqSearchFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SeqSearchFor" />
+    <configuration name="PhysExamSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PhysExamSearch" />
       <module name="Do_it_Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeqSearchSen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SeqSearchSen" />
+    <configuration name="StringBinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringBinarySearch" />
       <module name="Do_it_Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -94,11 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BinSearch" />
-        <item itemvalue="Application.SeqSearchSen" />
-        <item itemvalue="Application.SeqSearchFor" />
-        <item itemvalue="Application.SeqSearch" />
-        <item itemvalue="Application.PhysicalExamination" />
+        <item itemvalue="Application.IntStackTester" />
+        <item itemvalue="Application.GenericClassTester" />
+        <item itemvalue="Application.PhysExamSearch" />
+        <item itemvalue="Application.StringBinarySearch" />
+        <item itemvalue="Application.IdTester" />
       </list>
     </recent_temporary>
   </component>
