@@ -56,7 +56,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EuclidGCD">
+  <component name="RunManager" selected="Application.RecurMemo">
     <configuration name="EuclidGCD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EuclidGCD" />
       <module name="Do_it_Algorithm" />
@@ -64,29 +64,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Factorial" />
+    <configuration name="Recur" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recur" />
       <module name="Do_it_Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntQueueTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IntQueueTester" />
+    <configuration name="RecurMemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RecurMemo" />
       <module name="Do_it_Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntStackTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IntStackTester" />
+    <configuration name="RecurX1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RecurX1" />
       <module name="Do_it_Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LastNElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LastNElements" />
+    <configuration name="RecurX2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RecurX2" />
       <module name="Do_it_Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -94,11 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RecurMemo" />
+        <item itemvalue="Application.RecurX2" />
+        <item itemvalue="Application.RecurX1" />
+        <item itemvalue="Application.Recur" />
         <item itemvalue="Application.EuclidGCD" />
-        <item itemvalue="Application.Factorial" />
-        <item itemvalue="Application.LastNElements" />
-        <item itemvalue="Application.IntQueueTester" />
-        <item itemvalue="Application.IntStackTester" />
       </list>
     </recent_temporary>
   </component>
@@ -124,8 +124,44 @@
       </map>
     </option>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/chap05/Recur.java</url>
+          <line>11</line>
+          <properties class="Recur" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/chap05/RecurX1.java</url>
+          <line>11</line>
+          <properties class="RecurX1" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/chap05/RecurMemo.java</url>
+          <line>23</line>
+          <properties class="RecurMemo" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Do_it_Algorithm$RecurMemo.ic" NAME="RecurMemo Coverage Results" MODIFIED="1667794176988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
