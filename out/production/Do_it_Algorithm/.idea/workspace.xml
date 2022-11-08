@@ -56,16 +56,30 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RecurMemo">
-    <configuration name="EuclidGCD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EuclidGCD" />
+  <component name="RunManager" selected="Application.EightQueen">
+    <configuration name="EightQueen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EightQueen" />
       <module name="Do_it_Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Recur" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recur" />
+    <configuration name="Hanoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hanoi" />
+      <module name="Do_it_Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueenB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QueenB" />
+      <module name="Do_it_Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueenBB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QueenBB" />
       <module name="Do_it_Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,27 +92,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecurX1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RecurX1" />
-      <module name="Do_it_Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RecurX2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RecurX2" />
-      <module name="Do_it_Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EightQueen" />
+        <item itemvalue="Application.QueenBB" />
+        <item itemvalue="Application.QueenB" />
+        <item itemvalue="Application.Hanoi" />
         <item itemvalue="Application.RecurMemo" />
-        <item itemvalue="Application.RecurX2" />
-        <item itemvalue="Application.RecurX1" />
-        <item itemvalue="Application.Recur" />
-        <item itemvalue="Application.EuclidGCD" />
       </list>
     </recent_temporary>
   </component>
@@ -154,8 +154,22 @@
           </properties>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/chap05/Hanoi.java</url>
+          <line>16</line>
+          <properties class="Hanoi" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <inline-watch fileUrl="file://$PROJECT_DIR$/chap05/RecurMemo.java" line="18">
+        <watch expression="n" language="JAVA" />
+      </inline-watch>
+    </watches-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
