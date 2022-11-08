@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93fd0527-deae-498d-b81e-fbc24891c772" name="Changes" comment="" />
+    <list default="true" id="93fd0527-deae-498d-b81e-fbc24891c772" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Do_it_Algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Do_it_Algorithm.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +58,14 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EightQueen">
+  <component name="RunManager" selected="Application.BubbleSort">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BubbleSort" />
+      <module name="Do_it_Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EightQueen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EightQueen" />
       <module name="Do_it_Algorithm" />
@@ -85,20 +94,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecurMemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RecurMemo" />
-      <module name="Do_it_Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.EightQueen" />
         <item itemvalue="Application.QueenBB" />
         <item itemvalue="Application.QueenB" />
         <item itemvalue="Application.Hanoi" />
-        <item itemvalue="Application.RecurMemo" />
       </list>
     </recent_temporary>
   </component>
