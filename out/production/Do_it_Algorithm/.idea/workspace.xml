@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93fd0527-deae-498d-b81e-fbc24891c772" name="Changes" comment="" />
+    <list default="true" id="93fd0527-deae-498d-b81e-fbc24891c772" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/chap06/PhyscExamSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/chap06/PhyscExamSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Do_it_Algorithm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Do_it_Algorithm/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +59,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PhyscExamSort">
+  <component name="RunManager" selected="Application.HeapSort">
     <configuration name="ArraysSortTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArraysSortTester" />
       <module name="Do_it_Algorithm" />
@@ -64,15 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MergeArray" />
-      <module name="Do_it_Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MergeSort" />
+    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HeapSort" />
       <module name="Do_it_Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,13 +88,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="gugu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gugu" />
+      <module name="Do_it_Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HeapSort" />
+        <item itemvalue="Application.gugu" />
         <item itemvalue="Application.PhyscExamSort" />
         <item itemvalue="Application.SortCalendar" />
         <item itemvalue="Application.ArraysSortTester" />
-        <item itemvalue="Application.MergeSort" />
-        <item itemvalue="Application.MergeArray" />
       </list>
     </recent_temporary>
   </component>
@@ -209,15 +212,6 @@
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/chap06/ShellSort.java</url>
-          <line>19</line>
-          <properties class="ShellSort" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/chap06/ShellSort2.java</url>
           <line>25</line>
           <properties class="ShellSort2" method="main">
@@ -243,15 +237,6 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/chap06/QuickSort2.java</url>
-          <line>49</line>
-          <properties class="QuickSort2" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/chap06/MergeArray.java</url>

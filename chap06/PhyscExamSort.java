@@ -25,7 +25,7 @@ class PhyscExamSort {
 
         private static class HeightOrderComparator implements  Comparator<PhyscData> {
             public int compare(PhyscData d1, PhyscData d2) {
-                return (d1.height > d2.height) ? 1 :
+                 return (d1.height > d2.height) ? 1 :
                         (d1.height < d2.height) ? -1 : 0;
             }
         }
